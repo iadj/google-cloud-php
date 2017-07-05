@@ -1,7 +1,7 @@
 {
-    "name": "google/cloud",
+    "name": "iadj/gcloud",
     "type": "library",
-    "description": "Google Cloud Client Library",
+    "description": "Google Cloud Client Library that doesn't conflict against google/apiclient",
     "keywords": [
         "google apis client",
         "google api client",
